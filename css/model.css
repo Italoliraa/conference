@@ -1,0 +1,44 @@
+body{
+    background: rgb(186, 198, 238);
+}
+
+h1{
+    padding-top: 20px;
+    font: 40pt arial;
+}
+
+
+h2{
+    margin: 50px;
+    font: 25pt arial;
+}
+
+td{
+    background-color: rgb(101, 215, 109);
+    font: 18pt arial;
+}
+
+td.atingiu{
+    background-color: aqua;
+}
+td.Faltou{
+    background-color: rgb(241, 100, 100);
+}
+
+.sacramental{
+    height: 550px;
+    width: 900px;
+    border-radius: 10px;
+}
+
+.totalc{
+    border-radius: 10px;
+}
+
+h3{
+    font-size: 25pt;
+}
+
+.META{
+    height: 300px;
+}

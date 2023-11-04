@@ -1,0 +1,46 @@
+body{
+    background: rgb(186, 239, 186);
+}
+
+h1{
+    padding-top: 70px;
+    font: 40pt arial;
+}
+
+button{
+    font: 20pt arial;
+    border-radius: 7px;
+    background-color: aqua;
+    margin: 8px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+button.bp:hover{
+    transform: scale(1.1);
+}
+
+button.c:hover{
+    transform: scale(1.1);
+}
+
+button.sm:hover{
+    transform: scale(1.1);
+}
+
+button.ur-7:hover{
+    transform: scale(1.1);
+}
+
+button.v:hover{
+    transform: scale(1.1);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+button.total:hover{
+    transform: scale(1.1);
+}
